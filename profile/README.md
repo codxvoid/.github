@@ -28,9 +28,7 @@ This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE
 For questions or feedback, you can reach us at [email or contact method].
 
 ## Social Media
-- Twitter: [Your Twitter handle]
-- LinkedIn: [Your LinkedIn profile URL]
-- Instagram: [Your Instagram handle]
+- Twitter: [@codzlab]
 
 ## GitHub Stats
 [![GitHub followers](https://img.shields.io/github/followers/codzlab?style=social)](https://github.com/codzlab)
