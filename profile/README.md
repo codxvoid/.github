@@ -1,16 +1,15 @@
-# Codzlab : ♡ open source 
+> Codzlab : ♡ open source 
 
-## Overview
+##Overview
 non profit organization .
 
-## Features
+#Features
 - List of main features(comming soon).
 
-
-## Usage
+Usage
 Instructions on how to use the project.
 
-## Contributing
+>Contributing
 We welcome contributions from the community! If you'd like to contribute, please follow these guidelines:
 
 1. Fork the repository.
@@ -34,8 +33,9 @@ For questions or feedback, you can reach us at [email or contact method].
 - Instagram: [Your Instagram handle]
 
 ## GitHub Stats
-[![GitHub followers](https://img.shields.io/github/followers/codzlab?style=social)](https://github.com/yourusername)
-[![GitHub ](https://img.shields.io/github/repos/codzlab?style=social)](https://github.com/codzlab)
+[![GitHub followers](https://img.shields.io/github/followers/codzlab?style=social)](https://github.com/codzlab)
+[![GitHub repositories](https://img.shields.io/github/repos/codzlab?style=social)](https://github.com/codzlab)
+[![Profile views](https://komarev.com/ghpvc/?username=codzlab)](https://github.com/codzlab)
 
 
 <!--
