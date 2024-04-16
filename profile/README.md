@@ -1,47 +1,15 @@
-> Codzlab : ♡ open source 
+![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
 
-| Overview
-non profit organization .
+## Get Involved
 
-| Features
-- List of main features(comming soon).
+Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
-Usage
-Instructions on how to use the project.
+* [Explore featured projects]
+* [Explore open source jobs at Microsoft]
+* [Apply for Azure credits for open source projects]
 
->Contributing
-We welcome contributions from the community! If you'd like to contribute, please follow these guidelines:
+Visit [opensource.codzlab.github.io] to learn more!
 
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature-name`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Create a new Pull Request.
+----
 
-## Code of Conduct
-This project adheres to the Contributor Covenant code of conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [maintainer's email or contact method].
-
-## License
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-For questions or feedback, you can reach us at [email or contact method].
-
-## Social Media
-- Twitter: [@codzlab]
-
-## GitHub Stats
-[![GitHub followers](https://img.shields.io/github/followers/codzlab?style=social)](https://github.com/codzlab)
-[![Profile views](https://komarev.com/ghpvc/?username=codzlab)](https://github.com/codzlab)
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Codzlab projects adopt the [Codzlab Open Source Code of Conduct]. For more information see the [Code of Conduct FAQ].
