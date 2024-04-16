@@ -1,4 +1,4 @@
-![Open Source at Codzlab](https://github.com/codzlab/.github/blob/main/Img/codzlab_bnr.png)
+![Open Source at Codzlab](https://github.com/codzlab/.github/blob/main/Img/banner.png)
 
 ## Get Involved
 
