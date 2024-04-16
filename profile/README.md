@@ -1,4 +1,4 @@
-![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+![Open Source at Codzlab](https://github.com/codzlab/.github/blob/main/Img/Codzlab.png)) 
 
 ## Get Involved
 
