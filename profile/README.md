@@ -9,6 +9,13 @@ Right now, open communities are building amazing software together, and there ar
 * [Apply for Azure credits for open source projects]
 
 Visit [opensource.codzlab.github.io] to learn more!
+----
+<a href="https://github.com/codzlab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codzlab&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/codzlab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codzlab&layout=compact" />
+</a>
 
 ----
 
