@@ -8,7 +8,7 @@ Right now, open communities are building amazing software together, and there ar
 * [Explore open source jobs at]
 * [Apply for labs credits for open source projects]
 
-Visit [opensource.codzlab.github.io] to learn more!
+Visit to learn more!
 ----
 
 ----
