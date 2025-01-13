@@ -4,6 +4,25 @@
 
 Welcome to **CodxVoid** – an innovative and collaborative open-source community dedicated to solving coding problems, building cutting-edge technologies, and advancing AI/ML with LLM and Neural ML, integrating cybersecurity, and supporting open-source projects. Together, we create powerful solutions for the greater good!
 
+## The Evolution of CodxVoid
+
+CodxVoid, originally named **CodzLab**, underwent a transformation to better represent its core values of **infinity** and **freedom** in the world of coding and technology.
+
+### Why the Change?
+
+When the project was initially started under the name "CodzLab," the focus was on creating a collaborative space for coders and developers. However, as the vision grew, we realized the name didn’t fully encapsulate the limitless possibilities we wanted to promote. 
+
+"CodxVoid" emerged as a more fitting representation of our mission:
+- **"Cod"** symbolizes the foundation of our community: coding and development.
+- **"x"** represents the **infinity symbol**, signifying limitless possibilities, innovation, and continuous growth.
+- **"Void"** embodies the concept of **freedom and openness**, creating an unrestricted environment where ideas can flow freely and creativity knows no bounds.
+
+Thus, CodzLab evolved into CodxVoid, marking a new chapter in our journey towards a more inclusive, expansive, and innovative platform for the future of technology and development.
+
+---
+
+We are excited to embark on this new phase with the community and continue to push the boundaries of what is possible in the world of coding!
+
 ## About CodxVoid
 
 CodxVoid is an organization that fosters creativity, inclusivity, and knowledge sharing. By contributing to our projects, you join a community focused on innovation, open collaboration, and the development of tools that benefit everyone.
@@ -57,4 +76,4 @@ For any questions or assistance, feel free to contact us at `codxvoid-support@ex
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codxvoid&label=Profile%20views&color=0e75b6&style=flat" alt="codxvoid" /> </p>
 <h3 align="left">Connect with me:)</h3>
 </p>
->learn more with the ♡ of open source
+> learn more with the ♡ of open source
