@@ -75,6 +75,5 @@ For any questions or assistance, feel free to contact us at `devsorg@hotmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codxvoid&label=Profile%20views&color=0e75b6&style=flat" alt="codxvoid" /> </p>
 <h3 align="left">Connect with me:)</h3>
-</p>
 
 >>> learn more with the 💕 of open source
