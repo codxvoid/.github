@@ -1,6 +1,6 @@
-# VoidCodz
+# codxvoid
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=voidcodz&label=Profile%20views&color=0e75b6&style=flat" alt="voidcodz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codxvoid&label=Profile%20views&color=0e75b6&style=flat" alt="codxvoid" /> </p>
 
 
 <h3 align="left">Connect with me:)</h3>
@@ -9,4 +9,4 @@
 
 
 
->Visit to learn more ♡ open source
+>learn more with the ♡ of open source
