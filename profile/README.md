@@ -34,7 +34,7 @@ Found a bug or have a feature suggestion? Use the Issue Tracker to report issues
 
 ### Follow Code of Conduct
 
-We believe in maintaining a respectful, inclusive, and collaborative environment. Please refer to our [Code of Conduct](./CODE_OF_CONDUCT.md) to understand our community guidelines.
+We believe in maintaining a respectful, inclusive, and collaborative environment. Please refer to our [Code of Conduct](https://github.com/codxvoid/.github/blob/main/CODE_OF_CONDUCT.md) to understand our community guidelines.
 
 ## Open Source Philosophy
 
