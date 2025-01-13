@@ -71,7 +71,7 @@ Stay updated and connect with us through the following platforms:
 
 ## Support
 
-For any questions or assistance, feel free to contact us at `codxvoid-support@example.com`. We’re here to help!
+For any questions or assistance, feel free to contact us at `devsorg@hotmail.com`. We’re here to help!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codxvoid&label=Profile%20views&color=0e75b6&style=flat" alt="codxvoid" /> </p>
 <h3 align="left">Connect with me:)</h3>
