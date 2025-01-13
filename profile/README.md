@@ -1,6 +1,9 @@
 # Welcome to CodxVoid 👋
 
-**Tagline**: *Code Infinite, Think Void*
+<img 
+    src="https://github.com/codxvoid/codxvoid.github.io/blob/main/IMG/codxvoid-logo%20(2).jpg" 
+    style="height: 200px; width: 200px;" 
+    alt="CodxVoid Logo"> **Code Infinite, Think Void**
 
 Welcome to **CodxVoid** – an innovative and collaborative open-source community dedicated to solving coding problems, building cutting-edge technologies, and advancing AI/ML with LLM and Neural ML, integrating cybersecurity, and supporting open-source projects. Together, we create powerful solutions for the greater good!
 
