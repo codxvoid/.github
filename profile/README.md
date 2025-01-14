@@ -79,7 +79,7 @@ For any questions or assistance, feel free to contact us at `devsorg@hotmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codxvoid&label=Profile%20views&color=0e75b6&style=flat" alt="codxvoid" /> </p>
 <h3 align="left">Connect with me:)</h3>
 
-<p><a property="dct:title" rel="cc:attributionURL" href="http://codxvoid.github.io">&copy;copyright</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://linkedin.com/company/codxvoid">codxvoid</a> is licensed under <a href="[https://github.com/codxvoid/codxvoid.github.io?tab=License-1-ov-file](https://github.com/codxvoid/.github/tree/main?tab=License-1-ov-file)">Codx GPL International License</a></p>
+<p><a property="dct:title" rel="cc:attributionURL" href="http://codxvoid.github.io">&copy;copyright</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://linkedin.com/company/codxvoid">codxvoid</a> is licensed under <a href="https://github.com/codxvoid/.github/tree/main?tab=License-1-ov-file">Codx GPL International License</a></p>
 
 ---
 >>> learn more with the 💕 of open source
