@@ -1,7 +1,7 @@
 # Welcome to CodxVoid 👋
 
 <img 
-    src="https://github.com/codxvoid/codxvoid.github.io/blob/main/IMG/codxvoid-logo%20(2).jpg" 
+    src="https://github.com/codxvoid/codxvoid.github.io/blob/main/IMG/logo.jpg" 
     style="height: 200px; width: 200px; border: 1px solid black; border-radius: 5px;" 
     alt="CodxVoid Logo"> **Code Infinite, Think Void**
 
