@@ -1,25 +1,15 @@
 <h1 align="center">👋 Welcome to CodxVoid</h1>
 
 <p align="center">
-  <img 
-    src="https://github.com/codxvoid/codxvoid.github.io/blob/main/IMG/logo.jpg" 
-    alt="CodxVoid Logo"
-    width="200"
-    style="border-radius: 16px; border: 1px solid #ccc;"
-  />
+  <img src="https://github.com/codxvoid/codxvoid.github.io/blob/main/IMG/logo.jpg" width="180" alt="CodxVoid Logo" />
 </p>
 
-<p align="center"><strong><em>Code Infinite, Think Void</em></strong></p>
+<p align="center"><em><strong>Code Infinite, Think Void</strong></em></p>
 
 ---
 
-**CodxVoid** is an innovative and collaborative open-source collective dedicated to:
+CodxVoid is an innovative and collaborative open-source collective dedicated to solving coding challenges, advancing LLMs and neural ML, and integrating cybersecurity into impactful, real-world tools. We believe in **accessible, intelligent software for everyone**.
 
-- Solving real-world coding problems
-- Advancing AI/ML with LLMs & Neural Models
-- Integrating cybersecurity intelligence
-- Building scalable systems & toolchains
-- Supporting research prototypes and open-source technologies
 
 > Together, we design impactful, ethical, and future-driven solutions — for the greater good.
 
