@@ -61,7 +61,7 @@ Stay connected with CodxVoid:
 - **GitHub**: [codxvoid](https://github.com/codxvoid)
 - **YouTube**: [codxvoid](https://www.youtube.com/@codxvoid)
 - **LinkedIn**: [codxvoid](https://www.linkedin.com/company/codxvoid)
-- **Reddit**:[codxvoid](https://www.reddit.com/r/codxlab)
-- **X**:[codxlab](https://www.x.com/codxvoid)
+- **Reddit**:[codxvoid](https://www.reddit.com/r/codxvoid)
+- **X**:[codxvoid](https://www.x.com/codxvoid)
 
 Together, we build a stronger, smarter, and more inclusive community!
