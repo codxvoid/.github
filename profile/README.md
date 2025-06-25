@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to CodxVoid</h1>
 
 <p align="center">
-  <img src="https://github.com/codxvoid/codxvoid.github.io/blob/main/IMG/logo.jpg" width="180" alt="CodxVoid Logo" />
+  <img src="https://github.com/codxvoid/codxvoid.github.io/blob/main/IMG/cxv.png" width="180" alt="CodxVoid Logo" />
 </p>
 
 <p align="center"><em><strong>Code Infinite, Think Void</strong></em></p>
