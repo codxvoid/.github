@@ -25,8 +25,8 @@ We believe in **accessible, intelligent tools**, built with community, openness,
 
 > Started as **CodzLab**, reborn as **CodxVoid**.
 
-- **Cod** = Coding is our core  
-- **x** = Open Infinite innovation  
+- **Cod** = Core of Dreams, Derivation & Development  
+- **x** = Open Infinite  
 - **Void** = Freedom, openness, and imagination  
 
 > A name reborn to reflect our limitless vision.
