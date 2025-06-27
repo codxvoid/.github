@@ -88,7 +88,7 @@ For any questions or assistance, feel free to contact us at `devsorg@hotmail.com
 ---
 <p>
 <a href="https://github.com/codxvoid/.github/blob/main/IMG/xfinity.png">Xfinity</a> © 2025 by <a href="https://github.com/codxvoid">CodxVoid</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></p>
----
+
 <p><a property="dct:title" rel="cc:attributionURL" href="http://codxvoid.github.io">&copy;copyright</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://linkedin.com/company/codxvoid">codxvoid</a> is licensed under <a href="https://github.com/codxvoid/.github/tree/main?tab=License-1-ov-file">Codx GPL International License</a></p>
 
 ---
