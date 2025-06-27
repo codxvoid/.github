@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to CodxVoid</h1>
 
 <p align="center">
-  <img src="https://github.com/codxvoid/.github/blob/main/IMG/xfinity.png" width="180" alt="CodxVoid Logo" />
+  <img src="https://github.com/codxvoid/.github/blob/main/IMG/xfinity.png" width="180" alt=" Xfinity : CodxVoid Logo" />
 </p>
 
 <p align="center"><em><strong>Code Infinite, Think Void</strong></em></p>
@@ -85,7 +85,10 @@ For any questions or assistance, feel free to contact us at `devsorg@hotmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codxvoid&label=Profile%20views&color=0e75b6&style=flat" alt="codxvoid" /> </p>
 <h3 align="left">Connect with me:)</h3>
-
+---
+<p>
+<a href="https://github.com/codxvoid/.github/blob/main/IMG/xfinity.png">Xfinity</a> © 2025 by <a href="https://github.com/codxvoid">CodxVoid</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></p>
+---
 <p><a property="dct:title" rel="cc:attributionURL" href="http://codxvoid.github.io">&copy;copyright</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://linkedin.com/company/codxvoid">codxvoid</a> is licensed under <a href="https://github.com/codxvoid/.github/tree/main?tab=License-1-ov-file">Codx GPL International License</a></p>
 
 ---
