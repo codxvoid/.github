@@ -24,8 +24,8 @@ When the project was initially started under the name "CodzLab," the focus was o
 
 "CodxVoid" emerged as a more fitting representation of our mission:
 - **"Cod"** symbolizes the foundation of our community: coding and development.
-- **"x"** represents the **infinity symbol**, signifying limitless possibilities, innovation, and continuous growth.
-- **"Void"** embodies the concept of **freedom and openness**, creating an unrestricted environment where ideas can flow freely and creativity knows no bounds.
+- **"x"** represents the **open infinity symbol**, signifying limitless possibilities, innovation, and continuous growth.
+- **"Void"** embodies the concept of **freedom of infinite openness**, creating an unrestricted environment where ideas can flow freely and creativity knows no bounds.
 
 Thus, CodzLab evolved into CodxVoid, marking a new chapter in our journey towards a more inclusive, expansive, and innovative platform for the future of technology and development.
 
