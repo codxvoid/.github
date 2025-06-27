@@ -62,10 +62,9 @@ Need help or want to chat?
 
 ---
 
-## 🛡️ Licensing
+##  Licensing
 
--  Logo: [Xfinity](https://github.com/codxvoid/.github/blob/main/IMG/xfinity.png) © 2025 [CodxVoid](https://github.com/codxvoid)  
-  Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+-  Logo: [Xfinity](https://github.com/codxvoid/.github/blob/main/IMG/xfinity.png) © 2025 [CodxVoid](https://github.com/codxvoid) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 -  Code: [Codx GPL Int'l License](https://github.com/codxvoid/.github/tree/main?tab=License-1-ov-file)
 
