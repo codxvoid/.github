@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Welcome to <strong>CodxVoid</strong></h1>
 
 <p align="center">
-  <img src="https://github.com/codxvoid/.github/blob/main/IMG/xfinity.png" width="180" alt="Xfinity: CodxVoid Logo" />
+  <img src="https://github.com/codxvoid/.github/blob/main/IMG/Xfinity.png" width="180" alt="Xfinity: CodxVoid Logo" />
 </p>
 
 <p align="center"><em><strong>Code Infinite. Think Void.</strong></em></p>
@@ -64,7 +64,7 @@ Need help or want to chat?
 
 ##  Licensing
 
--  Logo: [Xfinity](https://github.com/codxvoid/.github/blob/main/IMG/xfinity.png) © 2025 [CodxVoid](https://github.com/codxvoid) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+-  Logo: [Xfinity](https://github.com/codxvoid/.github/blob/main/IMG/Xfinity.png) © 2025 [CodxVoid](https://github.com/codxvoid) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 -  Code: [Codx GPL Int'l License](https://github.com/codxvoid/.github/tree/main?tab=License-1-ov-file)
 
