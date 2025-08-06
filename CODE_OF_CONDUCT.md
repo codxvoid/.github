@@ -49,7 +49,7 @@ CodxVoid believes in the power of open source to drive innovation and collaborat
 
 ## Enforcement
 
-Instances of unacceptable behavior may be reported by contacting our team at `codxvoid-support@example.com`. All complaints will be reviewed and addressed confidentially. Actions may include:
+Instances of unacceptable behavior may be reported by contacting our team at `codxvoid+support@gmail.com`. All complaints will be reviewed and addressed confidentially. Actions may include:
 - **Warning**: Issuing a formal warning to the offender.
 - **Temporary Ban**: Temporarily suspending the offender from the community.
 - **Permanent Ban**: Permanently removing the offender from the community.
