@@ -1,80 +1,97 @@
-<h1 align="center">🚀 Welcome to <strong>CodxVoid</strong></h1>
+<h1 align="center"><strong>CodxVoid</strong></h1>
 
 <p align="center">
-  <img src="https://github.com/codxvoid/.github/blob/main/IMG/Xfinity.png" width="180" alt="Xfinity: CodxVoid Logo" />
+  <img src="https://github.com/codxvoid/.github/blob/main/IMG/Xfinity.png" width="160" alt="CodxVoid Logo" />
 </p>
 
-<p align="center"><em><strong>Code Infinite. Think Void.</strong></em></p>
+<p align="center"><em>Code Infinite. Think Void.</em></p>
 
 <p align="center">
-  <a href="https://codxvoid.github.io">🌐 Website</a> • 
-  <a href="https://github.com/codxvoid">GitHub</a> • 
-  <a href="https://www.x.com/@codxvoid"> X</a>
+  <a href="https://codxvoid.github.io">Website</a> •
+  <a href="https://github.com/codxvoid">GitHub</a> •
+  <a href="https://www.x.com/@codxvoid">X</a>
 </p>
 
----
-
-## 🧠 About Us
-
-**CodxVoid** is a creative, ethical open-source collective that explores limitless possibilities in technology and human collaboration.
-We believe in **accessible, intelligent tools**, built with community, openness, and purpose.
-
----
-
-## ✨ Our Journey
-
-> Started as **CodzLab**, reborn as **CodxVoid**.
-
-- **Cod** = Core of Dreams, Derivation & Development  
-- **x** = Open Infinite  
-- **Void** = Freedom, openness, and imagination  
-
-> A name reborn to reflect our limitless vision.
-
----
-
-## 🤝 How to Contribute
-
-1.  Fork any project
-2.  Make your changes (in a branch)
-3.  Document & test
-4.  PR your ideas!
-
-> Respect the [Code of Conduct](https://github.com/codxvoid/.github/blob/main/CODE_OF_CONDUCT.md) & bring your creativity.
-
----
-
-## 🎯 Our Values
-
--  **Open Source**: We build with transparency
--  **Inclusivity**: All skill levels welcome
--  **Collaboration**: We grow stronger together
--  **Innovation**: We create tools for real-world impact
-
----
-
-## 📬 Contact
-
-Need help or want to chat?
-
-📧 devsorg@hotmail.com  
-🔗 [LinkedIn (CodxVoid)](https://linkedin.com/company/codxvoid)
-
----
-
-##  Licensing
-
--  Logo: [Xfinity](https://github.com/codxvoid/.github/blob/main/IMG/Xfinity.png) © 2025 [CodxVoid](https://github.com/codxvoid) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
--  Code: [Codx GPL Int'l License](https://github.com/codxvoid/.github/tree/main?tab=License-1-ov-file)
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codxvoid&label=Profile%20views&color=0049ff&style=flat" alt="codxvoid" />
+  <img src="https://img.shields.io/badge/MSME%20Registered-Udyam%20Verified-0049ff?style=flat-square" alt="MSME Registered" />
 </p>
 
 ---
 
-> 💡 _“Learn more with the 💕 of open source”_  
-> — The CodxVoid Team
+## About CodxVoid
+
+CodxVoid is an independent, ethical open-source collective focused on exploring the future of software development, intelligence, and human collaboration.  
+Our mission is to build accessible, high-quality tools that encourage learning, creativity, and openness.
+
+We operate on principles of transparency, shared knowledge, and responsible innovation.
+
+---
+
+## Our Origin
+
+CodxVoid began as *CodzLab* and evolved into a broader, more ambitious vision.
+
+- **Cod** represents the core of development, research, and ideas  
+- **x** symbolizes infinite openness  
+- **Void** stands for freedom, imagination, and exploration beyond boundaries  
+
+The name reflects our commitment to limitless innovation.
+
+---
+
+## Contribution Guidelines
+
+We welcome contributors at all levels.
+
+1. Fork the project of your choice  
+2. Create a dedicated branch  
+3. Make clear, structured changes  
+4. Add required documentation or tests  
+5. Submit a pull request
+
+Please follow our [Code of Conduct](https://github.com/codxvoid/.github/blob/main/CODE_OF_CONDUCT.md) when contributing.
+
+---
+
+## Values and Principles
+
+- **Open Source** — Transparent development and knowledge sharing  
+- **Inclusivity** — A community where every skill level is encouraged  
+- **Collaboration** — Growth through shared effort  
+- **Innovation** — Building tools with long-term impact and purpose  
+
+---
+
+## Legal Status
+
+CodxVoid is officially registered as a **Micro Enterprise (MSME), Government of India**  
+Udyam Registration details can be provided upon request.
+
+---
+
+## Contact
+
+Email: **devsorg@hotmail.com**  
+LinkedIn: [CodxVoid](https://linkedin.com/company/codxvoid)
+
+---
+
+## Licensing
+
+### Logo  
+The Xfinity logo (© 2025 CodxVoid) is licensed under **CC BY-NC-ND 4.0**.  
+It may not be used commercially or modified.
+
+### Source Code  
+All code is licensed under the **Codx GPL International License**.  
+[Learn more](https://github.com/codxvoid/.github/tree/main?tab=License-1-ov-file)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codxvoid&label=Profile%20Views&color=0049ff&style=flat" alt="Profile Views" />
+</p>
+
+---
+<p align="center"><em>“Learn more with the 💕 of open source.”</em></p>
+<p align="center">— The CodxVoid Team</p>
