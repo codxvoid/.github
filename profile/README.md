@@ -80,11 +80,11 @@ LinkedIn: [CodxVoid](https://linkedin.com/company/codxvoid)
 
 ### Logo  
 The Xfinity logo (© 2025 CodxVoid) is licensed under **CC BY-NC-ND 4.0**.  
-It may not be used commercially or modified.
+It may not be used commercially or modified. 
 
 ### Source Code  
-All code is licensed under the **Codx GPL International License**.  
-[Learn more](https://github.com/codxvoid/.github/tree/main?tab=License-1-ov-file)
+All code is licensed under the **GPL 3.0 International License**.  
+[Learn more](https://github.com/codxvoid/.github/tree/main?tab=GPL-3.0-1-ov-file)
 
 ---
 
